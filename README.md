@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Awobifa Ebenezer
 
-<!--
-**EbenezerML/EbenezerML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Machine Learning Engineer
+📊 Learning Python, Data Science & ML
+🚀 Documenting my learning journey here on GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 Current Focus
+
+* Python for Data Science
+* Pandas, NumPy, Matplotlib
+* Machine Learning Basics
+
+---
+
+### 🔨 Projects in Progress
+
+* House Price Prediction \[Coming Soon]
+* Spam Detector \[Coming Soon]
+* COVID-19 Data Analysis \[Coming Soon]
+
+---
+
+### 🧱 Learning Roadmap
+
+* ✅ Python Basics
+* ✅ Data Analysis with Pandas
+* 🔄 Machine Learning Models
+* ⏳ Model Deployment
+
+---
+
+### 📍 Connect with Me
+
+  * Twitter: [https://twitter.com/web3Kirchoff]
+* LinkedIn: [www.linkedin.com/in/ebenezer-awobifa]
+
+  \\
